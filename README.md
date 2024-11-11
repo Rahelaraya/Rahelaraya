@@ -48,8 +48,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://sl.bing.net/ygKjnjpdvM"  />
+<div align="left">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG44a2U5NWtuZW85Ymt6ZXdyN2VpdGw1emU4NjJma2xsNThiNDlxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FYDgDc6Xi1o3x02hrQ/giphy.gif"  />
 </div>
 
 ###
