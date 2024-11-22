@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋, my name is Rahel Araya?</h1>
+<h1 align="left">Hi there 👋, my name is Rahel Araya</h1>
 
 ###
 
