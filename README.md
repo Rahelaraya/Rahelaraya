@@ -34,12 +34,3 @@
 
 ###
 
-<div align="left">
-  <img height="200" src=""  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
