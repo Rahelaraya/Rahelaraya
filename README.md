@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rahel and I'm a developer from Sweden</p>
+<p align="left">🎓 .NET Developer Student | 👨‍💻 Passionate About Coding | 🌍 Based in Göteborg, Sweden<br><br>Hi there! 👋 I'm a motivated student diving deep into the world of software development, with a strong focus on .NET technologies. Coding is more than just a skill for me—it's a way to solve problems, bring ideas to life, and continuously learn.<br><br>While my main passion lies in .NET, I love exploring other technologies and tools to expand my skill set and create innovative, reliable solutions.<br><br>When I'm not coding, you'll likely find me exploring the vibrant city of Göteborg or working on fun side projects. Feel free to check out my repositories, contribute, or connect—I’m always open to collaboration and new ideas!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning System developer<br>🎯 Goals: C#<br>🎲 Fun fact:</p>
+<p align="left">📚 I'm currently learning System developer<br>🎯 Goals: Mastering C#<br>🎲 Fun fact: Fun fact: The first "bug" in coding was an actual moth stuck in a computer in 1947! 🦋</p>
 
 ###
 
@@ -19,22 +19,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -44,12 +28,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG44a2U5NWtuZW85Ymt6ZXdyN2VpdGw1emU4NjJma2xsNThiNDlxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FYDgDc6Xi1o3x02hrQ/giphy.gif"  />
+  <img height="200" src=""  />
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
