@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning System developer at NBI/Handelsakademin on .NET and AI<br>🎯 Goals: Mastering C#<br>🎲 Fun fact: Fun fact: The first "bug" in coding was an actual moth stuck in a computer in 1947! 🦋</p>
+<p align="left">📚 I'm currently learning System developer at NBI/Handelsakademin on .NET and AI<br>🎯 Goals: Mastering C#<br>🎲 Fun fact: The first "bug" in coding was an actual moth stuck in a computer in 1947! 🦋</p>
 
 ###
 
